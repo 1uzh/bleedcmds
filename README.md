@@ -1,2 +1,2 @@
 # bleedcmds
-read and write commands
+simple python to code to read and write from the commands and output whatever page of commands youre on
