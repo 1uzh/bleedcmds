@@ -1,10 +1,17 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fbleed.bot%2F&psig=AOvVaw2jfM41geD4FEpVI2InEnAO&ust=1742100624800000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPC509aki4wDFQAAAAAdAAAAABAE
-# Bleed Command Exporter ( or any document you want to export information out of
-This command exporter is made using python and it is super easy to use and user-friendly
+![bleed](https://github.com/user-attachments/assets/73c4d242-4df2-4475-8777-20fb920d2e19)
 
-![Static Badge](https://img.shields.io/badge/file%20size%20-%201.07%20KB%20(%20not%20including%20ChromeDriver%20))
+# Bleed Command Exporter 
+( or any document you want to export information out of )
 
-# Requirements ( included in the release , here only if you're lazy )
+# What is this?
+This is a bleed commands exporter is made using python and it is super easy to use and user-friendly
+
+# Size
+
+![Static Badge](https://img.shields.io/badge/file%20size%20-%201.07%20kb%20-%20cyan?style=flat)
+
+# Requirements
+( included in the release , here only if you're lazy )
 ``` bash
 pip install colorama
 pip install selenium
