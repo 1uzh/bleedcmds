@@ -1,7 +1,6 @@
-![bleed](https://github.com/user-attachments/assets/73c4d242-4df2-4475-8777-20fb920d2e19)
+<img src="https://github.com/user-attachments/assets/73c4d242-4df2-4475-8777-20fb920d2e19" width="150" height="150" />
 
 # Bleed Command Exporter 
-( or any document you want to export information out of )
 
 # What is this?
 This is a bleed commands exporter is made using python and it is super easy to use and user-friendly
