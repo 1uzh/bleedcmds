@@ -1,0 +1,136 @@
+tempban
+remind
+remind remove
+remind list
+reminders
+warn
+thread
+thread lock
+thread unlock
+thread remove
+thread add
+thread watch
+thread watch list
+thread rename
+lockdown
+lockdown role
+lockdown all
+lockdown ignore
+lockdown ignore remove
+lockdown ignore list
+lockdown ignore add
+moveall
+unlock
+unlock all
+stripstaff
+jail
+modstats
+moderationhistory
+history
+history remove
+history removeall
+jaillist
+reason
+timeout
+timeout list
+untimeout
+mute
+unmute
+imute
+iunmute
+rmute
+runmute
+notes
+notes remove
+notes add
+notes clear
+hardban
+hardban list
+clearinvites
+drag
+unbanall
+unbanall cancel
+unban
+softban
+ban
+ban purge
+ban recent
+unjail
+temprole
+temprole list
+role
+role mentionable
+role humans
+role humans remove
+role bots
+role bots remove
+role edit
+role cancel
+role has
+role has remove
+role icon
+role restore
+role hoist
+role add
+role create
+role topcolor
+role delete
+role color
+role remove
+purge
+purge endswith
+purge bots
+purge humans
+purge between
+purge contains
+purge embeds
+purge activity
+purge links
+purge before
+purge reactions
+purge images
+purge emoji
+purge stickers
+purge webhooks
+purge mentions
+purge emotes
+purge after
+purge upto
+purge files
+purge startswith
+dump
+nuke
+nuke remove
+nuke archive
+nuke list
+nuke add
+nuke view
+newusers
+recentban
+talk
+unhide
+hide
+slowmode
+slowmode off
+slowmode on
+revokefiles
+revokefiles on
+revokefiles off
+setup
+rename
+restrictcommand
+restrictcommand list
+restrictcommand reset
+restrictcommand add
+restrictcommand remove
+stickyrole
+stickyrole list
+stickyrole add
+stickyrole remove
+raid
+forcenickname
+forcenickname list
+topic
+naughty
+setupmute
+permissions

@@ -1,0 +1,76 @@
+status
+donate
+sticker
+sticker add
+sticker tag
+sticker remove
+sticker cleanup
+sticker rename
+rotate
+compress
+invert
+emoji
+emoji removeduplicates
+emoji information
+emoji addmany
+emoji rename
+emoji stats
+emoji removemany
+emoji remove
+emoji add
+osu
+define
+urbandictionary
+inviteinfo
+boosters
+boosters lost
+roles
+emotes
+hex
+bots
+telegram
+screenshot
+members
+highlight
+highlight ignore
+highlight ignore list
+highlight remove
+highlight add
+highlight reset
+highlight list
+seen
+membercount
+roleinfo
+channelinfo
+avatar
+serveravatar
+serverbanner
+banner
+guildicon
+guildbanner
+splash
+serverinfo
+userinfo
+weather
+birthday
+birthday list
+birthday celebrate
+birthday celebrate list
+birthday config
+birthday set
+birthday channel
+birthday role
+timezone
+timezone list
+timezone set
+steam
+github
+roblox
+roblox fromdiscord
+roblox todiscord
+roblox outfits
+roblox template
+cashapp
+xbox
+snapchatstory
+snapchat

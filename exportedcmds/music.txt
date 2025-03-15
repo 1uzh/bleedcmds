@@ -1,0 +1,28 @@
+queue
+queue empty
+queue shuffle
+queue remove
+queue move
+play
+fastforward
+rewind
+volume
+pause
+resume
+skip
+shuffle
+repeat
+preset
+preset piano
+preset active
+preset flat
+preset nightcore
+preset chipmunk
+preset boost
+preset karaoke
+preset vibrato
+preset 8d
+preset metal
+preset soft
+preset vaporwave
+disconnect

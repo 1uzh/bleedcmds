@@ -1,0 +1,51 @@
+embed
+embed delete
+embed create
+embed list
+embed preview
+embed copy
+discog
+discog login
+discog search
+discog logout
+discog collections
+discog profile
+discog wantlist
+chatgpt
+uwu
+freaky
+quickpoll
+fyp
+afk
+afk mentions
+transcribe
+poll
+editembed
+run
+createembed
+embedcode
+randomhex
+charinfo
+color
+addemote
+rps
+choose
+jumbo
+wouldyourather
+help
+invites
+makemp3
+wikihow
+gnames
+clearnames
+cleargnames
+brainly
+names
+shazam
+topcommands
+nba
+nfl
+mlb
+soccer
+futbol
+nhl
