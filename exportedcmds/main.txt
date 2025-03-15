@@ -1,0 +1,285 @@
+prefix
+prefix remove
+prefix set
+prefix self
+boosterrole
+boosterrole rename
+boosterrole filter
+boosterrole filter list
+boosterrole limit
+boosterrole base
+boosterrole color
+boosterrole random
+boosterrole link
+boosterrole award
+boosterrole award view
+boosterrole award unset
+boosterrole icon
+boosterrole cleanup
+boosterrole list
+boosterrole share
+boosterrole share remove
+boosterrole share limit
+boosterrole share max
+boosterrole share list
+boosterrole remove
+boosterrole dominant
+settings
+settings jail
+settings baserole
+settings rmuted
+settings dj
+settings jailmsg
+settings imuted
+settings resetcases
+settings muted
+settings autonick
+settings autoplay
+settings joinlogs
+settings config
+settings reset
+settings modlog
+settings jailroles
+settings staff
+settings staff list
+settings disablecustomfms
+settings premiumrole
+settings googlesafetylevel
+boosts
+boosts variables
+boosts remove
+boosts add
+boosts list
+boosts view
+alias
+alias list
+alias removeall
+alias reset
+alias add
+alias remove
+alias view
+stickymessage
+stickymessage add
+stickymessage list
+stickymessage view
+stickymessage remove
+welcome
+welcome add
+welcome remove
+welcome variables
+welcome list
+welcome view
+goodbye
+goodbye add
+goodbye view
+goodbye remove
+goodbye variables
+goodbye list
+imgonly
+imgonly add
+imgonly list
+imgonly remove
+invoke
+invoke unmute
+invoke unmute dm
+invoke unmute dm view
+invoke unmute message
+invoke unmute message view
+invoke unjail
+invoke unjail dm
+invoke unjail dm view
+invoke unjail message
+invoke unjail message view
+invoke imute
+invoke imute message
+invoke imute message view
+invoke tempban
+invoke tempban message
+invoke tempban message view
+invoke tempban dm
+invoke tempban dm view
+invoke mute
+invoke mute message
+invoke mute message view
+invoke mute dm
+invoke mute dm view
+invoke rmute
+invoke rmute message
+invoke rmute message view
+invoke ban
+invoke ban dm
+invoke ban dm view
+invoke ban message
+invoke ban message view
+invoke kick
+invoke kick dm
+invoke kick dm view
+invoke kick message
+invoke kick message view
+invoke hardban
+invoke hardban message
+invoke hardban message view
+invoke unban
+invoke unban dm
+invoke unban dm view
+invoke unban message
+invoke unban message view
+invoke timeout
+invoke timeout dm
+invoke timeout dm view
+invoke timeout message
+invoke timeout message view
+invoke iunmute
+invoke iunmute message
+invoke iunmute message view
+invoke jail
+invoke jail dm
+invoke jail dm view
+invoke jail message
+invoke jail message view
+invoke softban
+invoke softban dm
+invoke softban dm view
+invoke softban message
+invoke softban message view
+invoke untimeout
+invoke untimeout message
+invoke untimeout message view
+invoke untimeout dm
+invoke untimeout dm view
+invoke runmute
+invoke runmute message
+invoke runmute message view
+invoke warn
+invoke warn message
+invoke warn message view
+invoke warn dm
+invoke warn dm view
+filter
+filter add
+filter caps
+filter caps exempt
+filter caps exempt list
+filter spam
+filter spam exempt
+filter spam exempt list
+filter whitelist
+filter spoilers
+filter spoilers exempt
+filter spoilers exempt list
+filter reset
+filter regex
+filter snipe
+filter massmention
+filter massmention exempt
+filter massmention exempt list
+filter musicfiles
+filter musicfiles exempt
+filter musicfiles exempt list
+filter emoji
+filter emoji exempt
+filter emoji exempt list
+filter list
+filter invites
+filter invites exempt
+filter invites exempt list
+filter links
+filter links whitelist
+filter links exempt
+filter links exempt list
+filter wordmigrate
+filter remove
+filter exempt
+filter exempt list
+autoresponder
+autoresponder reset
+autoresponder exclusive
+autoresponder exclusive list
+autoresponder list
+autoresponder add
+autoresponder remove
+autoresponder variables
+autoresponder role
+autoresponder role add
+autoresponder role add list
+autoresponder role remove
+autoresponder role remove list
+autoresponder update
+pagination
+pagination remove
+pagination delete
+pagination restorereactions
+pagination update
+pagination list
+pagination reset
+pagination add
+pagination set
+enablecommand
+enablecommand all
+copydisabled
+disablecommand
+disablecommand list
+disablecommand all
+enableevent
+enableevent all
+disableevent
+disableevent all
+disableevent list
+enablemodule
+enablemodule all
+disablemodule
+disablemodule list
+disablemodule all
+ignore
+ignore remove
+ignore list
+ignore add
+seticon
+setsplashbackground
+setbanner
+unpin
+pin
+firstmessage
+pins
+pins set
+pins archive
+pins config
+pins unpin
+pins reset
+pins channel
+webhook
+webhook list
+webhook lock
+webhook delete
+webhook create
+webhook unlock
+webhook edit
+webhook send
+fakepermissions
+fakepermissions remove
+fakepermissions add
+fakepermissions list
+fakepermissions reset
+extractstickers
+extractemotes
+reposter
+reposter embed
+reposter suppress
+reposter prefix
+reposter strict
+reposter delete
+suggest
+suggest ignore
+suggest ignore list
+suggest review
+suggest review channel
+suggest deny
+suggest set
+suggest consider
+suggest reactions
+suggest threads
+suggest reset
+suggest approve
+suggest progress
+suggest config
+suggest reply
